@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">An Engineering Student and a passionate Full Stack developer from MMMUT Gorakhpur. </h3>
+<h3 align="center">An Electronics and Communication Engineering Student and a passionate Full Stack developer from MMMUT Gorakhpur , U.P.. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta911&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta911" /> </p>
 
