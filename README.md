@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **C++, DSA, Git/GitHub, Video Editing**
 
-- 📫 How to reach me **www.linkedin.com/in/ shivam2007-**
+- 📫 How to reach me **www.linkedin.com/in/shivam2007-**
 
 - ⚡ Fun fact **ECE student exploring software development one bug at a time.**
 
