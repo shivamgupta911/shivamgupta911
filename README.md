@@ -24,8 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam2007-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam2007-" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ece_hustler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ece_hustler" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theece_grinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theece_grinder" height="30" width="40" /></a>
+
 </p>
 
 
@@ -47,16 +46,9 @@
 ### 🧩 Competitive Programming Profiles
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
-  </a>
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D35?style=flat&logo=GeeksforGeeks&logoColor=white"/>
-  </a>
+<a href="https://www.codechef.com/users/ece_hustler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ece_hustler" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/theece_grinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theece_grinder" height="30" width="40" /></a>
+   
 </div>
 
 ### Github Stats:
