@@ -7,19 +7,17 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack, Data Structures & Algorithms, Git & GitHub, AI & Ml**
+- 🌱 I’m currently learning **MERN Stack, Data Structures & Algorithms, Git & GitHub, AI & ML**
 
-- 👯 I’m looking to collaborate on **Frontend Web Development Projects**
+- 👯 I’m looking to collaborate on ** Web Development Projects along with one embedding advance technologies.**
 
 - 👨‍💻 All of my projects are available at [https://techie-shivamgupta-live.vercel.app/](https://techie-shivamgupta-live.vercel.app/)
 
 - 📝 I regularly write articles on Technology, Student Life, and Personal Growth.
 
-- 💬 Ask me about C++, DSA, Webdev, Git/GitHub, Video Editing.
+- 📫 Reach me out on: **www.linkedin.com/in/shivam2007-**
 
-- 📫 How to reach me **www.linkedin.com/in/shivam2007-**
-
-- ⚡ Fun fact **ECE student exploring software development one bug at a time.**
+- ⚡**ECE student exploring software development one bug at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +49,13 @@
    
 </div>
 
-### Github Stats:
+
+
+---
+
+
+
+ ###   Github Stats:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta911&" alt="shivamgupta911" /></p>
