@@ -47,7 +47,12 @@
 <div align="center">
 <a href="https://www.codechef.com/users/ece_hustler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ece_hustler" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/theece_grinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theece_grinder" height="30" width="40" /></a>
-   
+<a href="https://www.geeksforgeeks.org/user/shivamkg5hz1/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/geeksforgeeks" height="30" width="40" />
+</a>
+ <a href="https://www.hackerrank.com/profile/shivamkgupta911" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="shivamkgupta911" height="30" width="40" />
+</a>
 </div>
 
 
