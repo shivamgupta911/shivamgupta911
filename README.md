@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal:
 
 <div align="center">
   <p><b>Languages & Core</b></p>
@@ -41,7 +41,7 @@
 
 
 
-### 🧩 Competitive Programming Profiles
+### 🧩 Competitive Programming Profiles:
 
 <div align="center">
 <a href="https://www.codechef.com/users/ece_hustler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ece_hustler" height="30" width="40" /></a>
@@ -58,5 +58,7 @@
  ###   Github Stats:
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta911&" alt="shivamgupta911" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta911&theme=tokyonight" />
+</p>
 
