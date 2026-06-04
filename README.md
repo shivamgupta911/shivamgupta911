@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://techie-shivamgupta-live.vercel.app/](https://techie-shivamgupta-live.vercel.app/)
 
-- 📝 I regularly write articles on [Technology, Student Life, and Personal Growth](Technology, Student Life, and Personal Growth)
+- 📝 I regularly write articles on Technology, Student Life, and Personal Growth.
 
-- 💬 Ask me about **C++, DSA, Git/GitHub, Video Editing**
+- 💬 Ask me about C++, DSA, Webdev, Git/GitHub, Video Editing.
 
 - 📫 How to reach me **www.linkedin.com/in/shivam2007-**
 
