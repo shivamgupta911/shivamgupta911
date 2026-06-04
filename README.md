@@ -24,6 +24,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivam2007-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam2007-" height="30" width="40" /></a>
 
+
+<a href="mailto:shivamkgupta911@gmail.com">
+<img align="center" src="https://cdn.simpleicons.org/gmail" alt="shivamkgupta911@gmail.com" height="30" width="40" />
+</a>
+
 </p>
 
 
@@ -45,7 +50,9 @@
 ### 🧩 Competitive Programming Profiles:
 
 <div align="center">
-<a href="https://www.codechef.com/users/ece_hustler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ece_hustler" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ece_hustler" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/codechef/white" alt="ece_hustler" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/theece_grinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theece_grinder" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/shivamkg5hz1/" target="blank">
 <img align="center" src="https://cdn.simpleicons.org/geeksforgeeks" height="30" width="40" />
