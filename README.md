@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **MERN Stack, Data Structures & Algorithms, Git & GitHub, AI & ML**
 
-- 👯 I’m looking to collaborate on ** Web Development Projects along with one embedding advance technologies.**
+- 👯 I’m looking to collaborate on  Web Development Projects along with one embedding advance technologies.
 
-- 👨‍💻 All of my projects are available at [https://techie-shivamgupta-live.vercel.app/](https://techie-shivamgupta-live.vercel.app/)
+- 👨‍💻 Visit my Portfolio at [https://techie-shivamgupta-live.vercel.app/](https://techie-shivamgupta-live.vercel.app/)
 
 - 📝 I regularly write articles on Technology, Student Life, and Personal Growth.
 
