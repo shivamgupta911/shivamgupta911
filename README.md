@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Shivam Kumar Gupta</h1>
 <h3 align="center">An Electronics & Communication Engineering student at MMMUT Gorakhpur, driven by Full Stack Development, AI, and the pursuit of building meaningful technology through code.
  </h3>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 Visit my Portfolio at [https://techie-shivamgupta-live.vercel.app/](https://techie-shivamgupta-live.vercel.app/)
 
-- 📝 I regularly write articles on Technology, Student Life, and Personal Growth.
+- 📝 I regularly write articles on Emerging Technologies, Student Life, and Personal Growth.
 
 - 📫 Reach me out on: **www.linkedin.com/in/shivam2007-**
 
@@ -80,6 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta911&layout=compact" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=shivamgupta911&theme=tokyonight" alt="GitHub Streak" />
 </p>
