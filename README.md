@@ -71,7 +71,7 @@
  ###   Github Stats:
 
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta911&show_icons=true" />
 </p>
 
