@@ -76,10 +76,10 @@
 </p>
 
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta911&layout=compact" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=shivamgupta911&theme=tokyonight" alt="GitHub Streak" />
 </p>
