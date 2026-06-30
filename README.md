@@ -37,7 +37,7 @@
 ### 🛠️ Technical Arsenal:
 
 <div align="center">
-  <p><b>Languages & Core</b></p>
+  <p><b>Languages and Core</b></p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,react,js&theme=dark" />
   
  
