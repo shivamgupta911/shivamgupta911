@@ -67,19 +67,3 @@
 ---
 
 
-
- ###   Github Stats:
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta911&show_icons=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta911&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamgupta911&theme=tokyonight" alt="GitHub Streak" />
-</p>
