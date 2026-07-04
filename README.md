@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shivam Kumar Gupta</h1>
+<h1 align="center">Hi👋, I'm Shivam Kumar Gupta</h1>
 <h3 align="center">An Electronics & Communication Engineering student at MMMUT Gorakhpur, driven by Full Stack Development, AI, and the pursuit of building meaningful technology through code.
 </h3>
 
