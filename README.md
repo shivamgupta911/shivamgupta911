@@ -4,7 +4,7 @@
 <h3 align="center">An Electronics & Communication Engineering student at MMMUT Gorakhpur, driven by Full Stack Development, AI, and the pursuit of building meaningful technology through code.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta911&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta911" /> </p>
+
 
 
 
