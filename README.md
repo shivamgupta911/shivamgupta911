@@ -38,7 +38,7 @@
 
 <div align="center">
   <p><b>Languages and Core</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,react,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,react,js,node.js&theme=dark" />
   
  
   <p><b>Tools & Platforms</b></p>
